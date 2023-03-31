@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_page">60dp</dimen>
+    <dimen name="padding_page">10dp</dimen>
+    <dimen name="corner">10dp</dimen>
+</resources>

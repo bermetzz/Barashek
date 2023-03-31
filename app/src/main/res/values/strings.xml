@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Barashek</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select">Select photos</string>
+    <string name="send">send</string>
+    <string name="selected">Selected photos</string>
+    <string name="barashek1">https://animalcorner.org/wp-content/uploads/2015/02/sheep.png</string>
+    <string name="barashek2">https://livestockconservancy.org/wp-content/uploads/2022/08/Cotswold-Sheep-scaled.jpg</string>
+    <string name="barashek3">https://thumbs.dreamstime.com/b/sheep-photo-young-chewing-some-grass-40571300.jpg</string>
+    <string name="barashek4">https://media.4-paws.org/4/d/5/7/4d579ac34a8ee834f2c9acc26c4eaba336d7f034/shutterstock_97268789%20-%20lamb%20looking%20at%20camera%20-%20web%20size-1277x884.jpg</string>
+    <string name="barashek5">https://cdn.viva.org.uk/wp-content/uploads/2020/05/fun-facts.jpg</string>
+    <string name="barashek6">https://livestockconservancy.org/wp-content/uploads/2022/08/Cotswold-Sheep-scaled.jpg</string>
+    <string name="barashek7">https://thumbs.dreamstime.com/b/sheep-photo-young-chewing-some-grass-40571300.jpg</string>
+    <string name="barashek8">https://media.4-paws.org/4/d/5/7/4d579ac34a8ee834f2c9acc26c4eaba336d7f034/shutterstock_97268789%20-%20lamb%20looking%20at%20camera%20-%20web%20size-1277x884.jpg</string>
+    <string name="barashek9">https://animalcorner.org/wp-content/uploads/2015/02/sheep.png</string>
+</resources>
